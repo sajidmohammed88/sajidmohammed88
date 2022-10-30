@@ -7,14 +7,17 @@
 - 🌱 I’m currently learning [angular](https://angular.io/)
 - 📫 How to reach me : mohammedsajid.ensias@gmail.com
 - APIs integration:
-<center>
   
-  | Syntax      | Description |
-  | ----------- | ----------- |
-  | Header      | Title       |
-  | Paragraph   | Text        |
+  | API name                    | API repository                                                                            |
+  | ----------------------------| ------------------------------------------------------------------------------------------|
+  | Robinhood                   | [Robinhood](https://github.com/sajidmohammed88/robinhood-api)                             |
+  | Alice blue online           | [AliceBlueOnline](https://github.com/sajidmohammed88/alice-blue-online-api)               |
+  | Backblaze B2 Cloud Storage  | [BackblazeB2CloudStorage](https://github.com/sajidmohammed88/back-blaze-b2-cloud-storage) |
+  | Bit Bucket Cloud            | [BitBucketCloud](https://github.com/sajidmohammed88/bit-bucket-cloud-api)                 |
+  | Flat trade                  | [FlatTrade](https://github.com/sajidmohammed88/bit-bucket-cloud-api)                      |
+  | Hyper Sync Intercative      | [HyperSyncIntercative](https://github.com/sajidmohammed88/hyper-sync-intercative-api)     |
+  | Kite                        | [Kite](https://github.com/sajidmohammed88/kite-api)                                       |
   
-</center>
 <!--
 **sajidmohammed88/sajidmohammed88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
