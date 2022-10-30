@@ -1,9 +1,10 @@
 ### Hi there 👋 
-- My stackoverflow account : 
+- Stackoverflow account : 
 <p align="center">
 <a href="https://stackoverflow.com/users/1745795/mohammed-sajid"><img src="https://stackoverflow.com/users/flair/1745795.png" width="208" height="58" alt="profile for Mohammed Sajid at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mohammed Sajid at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 
+- LinkedIn profile : [LinkedIn](https://www.linkedin.com/in/mohammed-sajid-9b185957/)
 - 🌱 I’m currently learning [Angular](https://angular.io/)
 - 📫 How to reach me : mohammedsajid.ensias@gmail.com
 - APIs integration :
