@@ -35,13 +35,15 @@
     - NUnit, XUnit, PACT BDD(Specflow), TDD.
     - T-SQL, MongoDb.
     - Apache Kafka, RabbitMQ.
-    - Visual Studio, Microsoft SQL Server Management, MongoCompass, NoSqlBooster, KafkaTools, SoapUI, Postman.
+    
     - TFS, GIT, Bitbucket.
-    - Confluence, JIRA.
   - **Frontend** :
     - Html, CSS, Razor Engine, JQuery, JavaScript, AJAX, Bootstrap, Aspx
     - Blazor, Radzen Blazor components
     - Beginner in Angular
+- **Tools** : 
+  - Confluence, JIRA
+  - Visual Studio, Microsoft SQL Server Management, MongoCompass, NoSqlBooster, KafkaTools, SoapUI, Postman.
 
 <!--
 **sajidmohammed88/sajidmohammed88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
