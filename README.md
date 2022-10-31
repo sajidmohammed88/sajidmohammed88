@@ -6,7 +6,7 @@
 
 - 👯 LinkedIn profile : [LinkedIn](https://www.linkedin.com/in/mohammed-sajid-9b185957/)
 - 🌱 I’m currently learning [Angular](https://angular.io/)
-- 🌱 I’m intersted to [Qwik](https://qwik.builder.io/)
+- 🌱 I’m interested in [Qwik](https://qwik.builder.io/)
 - 📫 How to reach me : Send me an email to mohammedsajid.ensias@gmail.com
 - APIs integration :
   | API name                    | API repository                                                                            |Description|
