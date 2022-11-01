@@ -1,4 +1,9 @@
 ### Hi there 👋 
+<h1 align="center">Mohammed Sajid</h1>
+<p align="center">
+  Software engineer specialized in .NET development.
+</p>
+
 - Stackoverflow account : 
 <p align="center">
 <a href="https://stackoverflow.com/users/1745795/mohammed-sajid"><img src="https://stackoverflow.com/users/flair/1745795.png" width="208" height="58" alt="profile for Mohammed Sajid at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mohammed Sajid at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
