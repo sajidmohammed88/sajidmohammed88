@@ -12,8 +12,7 @@
 - 👯 LinkedIn profile : [LinkedIn](https://www.linkedin.com/in/mohammed-sajid-9b185957/)
 - 🌱 I’m currently learning [Angular](https://angular.io/)
 - 🌱 I’m interested in [Qwik](https://qwik.builder.io/)
-- 📫 How to reach me : Send me an email to mohammedsajid.ensias@gmail.com
-- APIs integration :
+- APIs integration projects :
   | API name                    | API repository                                                                            |Description|
   | ----------------------------| ------------------------------------------------------------------------------------------|-----------|
   | Robinhood                   | [Robinhood](https://github.com/sajidmohammed88/robinhood-api)                             |Trading|
