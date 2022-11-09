@@ -15,7 +15,7 @@
 - APIs integration projects :
   | API name                    | API repository                                                                            |Description|
   | ----------------------------| ------------------------------------------------------------------------------------------|-----------|
-  | Robinhood                   | [Robinhood](https://github.com/sajidmohammed88/robinhood-api)                             |Trading|
+  | Robinhood                   | [Robinhood](https://github.com/sajidmohammed88/robinhood-api)                             |Trading : Implement the python API https://pyrh.readthedocs.io/en/latest/index.html|
   | Alice blue online           | [AliceBlueOnline](https://github.com/sajidmohammed88/alice-blue-online-api)               |Trading|
   | Backblaze B2 Cloud Storage  | [BackblazeB2CloudStorage](https://github.com/sajidmohammed88/back-blaze-b2-cloud-storage) |<p>[Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/docs/) is a cloud service for storing files in the cloud. Files are available for download at any time, either through APIs or a browser-compatible URL.</p>|
   | Bit Bucket Cloud            | [BitBucketCloud](https://github.com/sajidmohammed88/bit-bucket-cloud-api)                 |Git-based source code repository hosting service owned by Atlassian|
