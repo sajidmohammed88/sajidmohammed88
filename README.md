@@ -22,11 +22,6 @@
   | Robinhood                   | Trading : Implement the python API https://pyrh.readthedocs.io/en/latest/index.html|
   | Backblaze B2 Cloud Storage  | <p>[Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/docs/) is a cloud service for storing files in the cloud. Files are available for download at any time, either through APIs or a browser-compatible URL.</p>|
   | Bit Bucket Cloud            | Git-based source code repository hosting service owned by Atlassian|
-- Web Projects :
-  
-  | Project name                |Description|
-  | ----------------------------|-----------|
-  | Robinhood Web App           |Web mvc project that use robinhood api to manage authentication, stock and crypto for orders, quote ....|
 
 - I'm skilled in : <br>
   - **Backend** :
