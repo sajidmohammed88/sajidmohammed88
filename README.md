@@ -13,20 +13,20 @@
 - 🌱 I’m currently learning [Angular](https://angular.io/)
 - 🌱 I’m interested in [Qwik](https://qwik.builder.io/)
 - APIs integration projects :
-  | API name                    | API repository                                                                            |Description|
-  | ----------------------------| ------------------------------------------------------------------------------------------|-----------|
-  | Alice blue online           | [AliceBlueOnline](https://github.com/sajidmohammed88/alice-blue-online-api)               |Trading|
-  | Flat trade                  | [FlatTrade](https://github.com/sajidmohammed88/bit-bucket-cloud-api)                      |Trading|
-  | Hyper Sync Intercative      | [HyperSyncIntercative](https://github.com/sajidmohammed88/hyper-sync-intercative-api)     |Trading|
-  | Kite                        | [Kite](https://github.com/sajidmohammed88/kite-api)                                       |Trading|
-  | Robinhood                   | [Robinhood](https://github.com/sajidmohammed88/robinhood-api)                             |Trading : Implement the python API https://pyrh.readthedocs.io/en/latest/index.html|
-  | Backblaze B2 Cloud Storage  | [BackblazeB2CloudStorage](https://github.com/sajidmohammed88/back-blaze-b2-cloud-storage) |<p>[Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/docs/) is a cloud service for storing files in the cloud. Files are available for download at any time, either through APIs or a browser-compatible URL.</p>|
-  | Bit Bucket Cloud            | [BitBucketCloud](https://github.com/sajidmohammed88/bit-bucket-cloud-api)                 |Git-based source code repository hosting service owned by Atlassian|
+  | API name                    | Description|
+  | ----------------------------|-----------|
+  | Alice blue online           | Trading : https://v2api.aliceblueonline.com/introduction|
+  | Flat trade                  | Trading : https://pi.flattrade.in/docs|
+  | Hyper Sync Intercative      | Trading : https://www.hypersync.in/stackdocs/HSAUTH_OAUTH_1.0.6/|
+  | Kite                        | Trading : https://kite.trade/docs/connect/v3/user/|
+  | Robinhood                   | Trading : Implement the python API https://pyrh.readthedocs.io/en/latest/index.html|
+  | Backblaze B2 Cloud Storage  | <p>[Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/docs/) is a cloud service for storing files in the cloud. Files are available for download at any time, either through APIs or a browser-compatible URL.</p>|
+  | Bit Bucket Cloud            | Git-based source code repository hosting service owned by Atlassian|
 - Web Projects :
   
-  | Project name                | Project repository                                                        |Description|
-  | ----------------------------| --------------------------------------------------------------------------|-----------|
-  | Robinhood Web App           | [Robinhood web app](https://github.com/sajidmohammed88/robinhood-web-app) |Web mvc project that use robinhood api to manage authentication, stock and crypto for orders, quote ....|
+  | Project name                |Description|
+  | ----------------------------|-----------|
+  | Robinhood Web App           |Web mvc project that use robinhood api to manage authentication, stock and crypto for orders, quote ....|
 
 - I'm skilled in : <br>
   - **Backend** :
