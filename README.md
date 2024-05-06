@@ -25,7 +25,7 @@
 
 - I'm skilled in : <br>
   - **Backend** :
-    - .NET Framework, .Net Core, .NET5, .NET 6.
+    - .NET Framework, .Net Core, .NET5, .NET6, .NET8.
     - C#, LINQ to (Objects, Entities, and XML).
     - REST API, APIs Integration, WCF
     - DDD, CQRS
