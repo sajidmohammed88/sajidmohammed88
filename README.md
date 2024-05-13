@@ -21,6 +21,7 @@ What I do -
 - Designing and developing Applications Web and REST APIs
 - Azure Devops, CI/CD
 - Learning [Angular](https://angular.io/)
+  
 <h1>Other Links</h1>
 <table style="border:none">
   <tr>
@@ -50,6 +51,13 @@ APIs integration :
   | Backblaze B2 Cloud Storage  | <p>[Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/docs/) is a cloud service for storing files in the cloud. Files are available for download at any time, either through APIs or a browser-compatible URL.</p>|
   | Bit Bucket Cloud            | Git-based source code repository hosting service owned by Atlassian|
 
-<h1>Tools</h1> 
-  - Confluence, JIRA
-  - Visual Studio, Microsoft SQL Server Management, MongoCompass, NoSqlBooster, KafkaTools, SoapUI, Postman.
+<h1>Tools</h1>
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYKKCr9tMP60TykrtKsBT-8MkixC0Di4WnEjtpH0iVg&s" width="100" height="40">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaPyXEnG-Fac-l7Evk4Krf5ih4flHzI5Dpz2zfE4HLqSAsvr8bv39VU-fKJ3Qq7M1MGY&usqp=CAU" width="100" height="40">
+  <img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2022/09/devblog-brand-visualstudio2022.png" width="100" height="40">
+  <img src="https://miro.medium.com/v2/resize:fit:402/1*KTDZHTVaVbvbyhIf2PmBAw.png" width="100" height="40">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fnl5odr3413k5dddlz1dd.png" width="100" height="40">
+  <img src="https://sourceforge.net/blog/wp-content/uploads/2013/12/SmartBear-SoapUI-Logo.png" width="100" height="40">
+  <img src="https://mms.businesswire.com/media/20231211943255/en/761650/23/postman-logo-vert-2018.jpg" width="70" height="40">
+</p>
