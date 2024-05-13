@@ -26,7 +26,7 @@ What I do -
 <table style="border:none">
   <tr>
     <td valign="top">
-       <a href="https://stackoverflow:ljknmm:mmjoki.com/users/1745795/mohammed-sajid">
+       <a href="https://stackoverflow.com/users/1745795/mohammed-sajid">
         <img src="https://stackoverflow.com/users/flair/1745795.png">
        </a>
     </td>
