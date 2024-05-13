@@ -1,7 +1,9 @@
 <h1>Mohammed SAJID from Morocco! 👋 </h1>
-<h1 align="center">Mohammed Sajid</h1>
-<p align="center">
-  Software engineer specialized in .NET development.
+<p>
+  <b> I'm Software engineer with close to 11 years of experience.</b>
+</p>
+<p>
+  I love code and teaching all Iknow.
 </p>
 
 - Stackoverflow account : 
