@@ -3,9 +3,20 @@
   <b> I'm Software engineer with close to 11 years of experience.</b>
 </p>
 <p>
-  I love code and teaching all Iknow.
+  I love code and teaching all I know.
 </p>
 
+<h1> I specialize in -</h1>
+<p align="left">
+  <img src="https://milan.milanovic.org/post/a-brief-walk-through-net-ecosystem/featured.jpg" width="100" height="40">
+  <img src="https://danpatrascu.com/wp-content/uploads/2019/05/blazorms-675x360.jpg" width="100" height="40">
+  <img src="https://static.tildacdn.one/tild6238-3035-4335-a333-306335373139/IMG_3349.jpg" width="100" height="40">
+  <img src="https://es7d2pwx9xw.exactdn.com/wp-content/uploads/2021/09/NoSQL.jpg?strip=all&lossy=1&ssl=1" width="100" height="40">
+  <img src="https://dbaconsultants.co.in/newimages/OraclePLSQL_Transparent.png" width="100" height="40">
+  <img src="https://miro.medium.com/v2/resize:fit:1024/1*tsqlgfBBb32ZLx1Y6bwzKA.jpeg" width="100" height="40">
+  <img src="https://assets-global.website-files.com/6411daab15c8848a5e4e0153/659fce6c4c67870a474b854e_bootstrap-1.jpeg" width="100" height="40">
+  <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" width="70" height="40">
+</p>
 - Stackoverflow account : 
 <p align="center">
 <a href="https://stackoverflow.com/users/1745795/mohammed-sajid"><img src="https://stackoverflow.com/users/flair/1745795.png" width="208" height="58" alt="profile for Mohammed Sajid at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mohammed Sajid at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
