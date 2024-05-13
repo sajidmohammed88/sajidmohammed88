@@ -35,6 +35,11 @@ What I do -
         <img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.jpg" width="208" height="58">
       </a>
     </td>
+    <td valign="top">
+      <a href="https://www.upwork.com/freelancers/~01722f77578610a10f">
+        <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/60e5a74547878c8b5a58cb0d_wordmark%20(1).png" width="208" height="58">
+      </a>
+    </td>
   </tr>
 </table>
 
