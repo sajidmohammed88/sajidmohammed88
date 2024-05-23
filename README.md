@@ -27,7 +27,7 @@ What I do -
   <tr>
     <td valign="top">
        <a href="https://stackoverflow.com/users/1745795/mohammed-sajid">
-        <img src="https://stackoverflow.com/users/flair/1745795.png">
+        <img src="https://stackoverflow.com/users/flair/1745795.png" width="208" height="58">
        </a>
     </td>
     <td valign="top">
