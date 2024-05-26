@@ -53,13 +53,13 @@ APIs integration :
 
   | API name                    | Description|
   | ----------------------------|-----------|
+  | Robinhood                   | Trading : Implement the python API https://pyrh.readthedocs.io/en/latest/index.html|
+  | Backblaze B2 Cloud Storage  | <p>[Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/docs/) is a cloud service for storing files in the cloud. Files are available for download at any time, either through APIs or a browser-compatible URL.</p>|
+  | Bit Bucket Cloud            | Git-based source code repository hosting service owned by Atlassian|
   | Alice blue online           | Trading : https://v2api.aliceblueonline.com/introduction|
   | Flat trade                  | Trading : https://pi.flattrade.in/docs|
   | Hyper Sync Intercative      | Trading : https://www.hypersync.in/stackdocs/HSAUTH_OAUTH_1.0.6/|
   | Kite                        | Trading : https://kite.trade/docs/connect/v3/user/|
-  | Robinhood                   | Trading : Implement the python API https://pyrh.readthedocs.io/en/latest/index.html|
-  | Backblaze B2 Cloud Storage  | <p>[Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/docs/) is a cloud service for storing files in the cloud. Files are available for download at any time, either through APIs or a browser-compatible URL.</p>|
-  | Bit Bucket Cloud            | Git-based source code repository hosting service owned by Atlassian|
 
 <h1>Tools</h1>
 <p align="left">
