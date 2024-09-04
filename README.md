@@ -40,11 +40,6 @@ What I do -
         <img src="https://assets-global.website-files.com/603fea6471d9d8559d077603/60e5a74547878c8b5a58cb0d_wordmark%20(1).png" width="208" height="58">
       </a>
     </td>
-    <td valign="top">
-      <a href="https://www.fiverr.com/sajid_mohammed?up_rollout=true">
-        <img src="https://techcrunch.com/wp-content/uploads/2021/12/fiverr-header.jpeg" width="208" height="58">
-      </a>
-    </td>
   </tr>
 </table>
 
