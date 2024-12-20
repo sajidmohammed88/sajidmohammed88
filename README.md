@@ -20,7 +20,7 @@
 What I do -
 - Designing and developing Applications Web and REST APIs
 - Azure Devops, CI/CD
-- Learning [Angular](https://angular.io/)
+- Can I work in FrontEnd too.
   
 <h1>Other Links</h1>
 <table style="border:none">
