@@ -1,6 +1,6 @@
 <h1>Mohammed SAJID from Morocco! 👋 </h1>
 <p>
-  <b> I'm Software engineer with close to 11 years of experience.</b>
+  <b> I'm Software engineer with more than 11 years of experience.</b>
 </p>
 <p>
   I love code and teaching all I know.
