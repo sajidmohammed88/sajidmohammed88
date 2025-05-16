@@ -9,7 +9,6 @@
 <h1> I specialize in -</h1>
 <p align="left">
   <img src="https://milan.milanovic.org/post/a-brief-walk-through-net-ecosystem/featured.jpg" width="100" height="40">
-  <img src="https://danpatrascu.com/wp-content/uploads/2019/05/blazorms-675x360.jpg" width="100" height="40">
   <img src="https://static.tildacdn.one/tild6238-3035-4335-a333-306335373139/IMG_3349.jpg" width="100" height="40">
   <img src="https://es7d2pwx9xw.exactdn.com/wp-content/uploads/2021/09/NoSQL.jpg?strip=all&lossy=1&ssl=1" width="100" height="40">
   <img src="https://miro.medium.com/v2/resize:fit:1024/1*tsqlgfBBb32ZLx1Y6bwzKA.jpeg" width="100" height="40">
